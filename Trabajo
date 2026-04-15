@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Ejercicios 1er Parcial</title>
+<link rel="stylesheet" href="Ejemplos.css">
+
+</head>
+
+<body>
+
+<div class="header">
+<h1>Examen 1er Parcial - Páginas Web</h1>
+<p>Alumno: Heriberto Collado Segura. | Grupo: E </p>
+</div>
+
+<div class="container">
+
+<div class="card">
+<h2>Ejercicio 1</h2>
+<p>Se vio toda la estructura basica de lo que es HTML y sobre como subir un archivo a gtihub</p>
+<a href="https://collasehe-source.github.io/heriberto-Collado-Segura/" class="btn">Ver ejercicio</a>
+</div>
+
+<div class="card">
+<h2>Ejercicio 2</h2>
+<p>Aquí escribe la descripción del ejercicio realizado en clase.</p>
+<a href="#" class="btn">Ver ejercicio</a>
+</div>
+
+<div class="card">
+<h2>Ejercicio Examen</h2>
+<p>Hicimos una nueva pagina web, esta vez utilizando estilos de HTML, añadiendo imagenes, videos e hipervinculos sobre el tema tratado</p>
+<a href="https://collasehe-source.github.io/Elementos-b-sicos/" class="btn">Ver ejercicio</a>
+</div>
+
+</div>
+
+<div class="footer">
+© 2026 - Examen 1er Parcial 
+<br>Ing.José Julián Vargaz Hernández
+</div>
+
+</body>
+</html>
